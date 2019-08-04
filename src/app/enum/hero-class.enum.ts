@@ -1,0 +1,11 @@
+export enum HeroClassEnum {
+  DRUID = 'DRUID',
+  HUNTER = 'HUNTER',
+  MAGE = 'MAGE',
+  PALADIN = 'PALADIN',
+  PRIEST = 'PRIEST',
+  ROGUE = 'ROGUE',
+  SHAMAN = 'SHAMAN',
+  WARLOCK = 'WARLOCK',
+  WARRIOR = 'WARRIOR'
+}
